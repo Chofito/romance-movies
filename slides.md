@@ -23,7 +23,8 @@ colorSchema: 'dark'
 # Películas de romance :3
 
 Pequeña lista para nuestra próxima cita n.n
-Sino pos miras alguna otra jaja
+<br />
+Sino pos miramos alguna otra jaja
 
 ---
 transition: slide-up
